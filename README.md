@@ -15,7 +15,6 @@ A clean and modern user interface for the Spotify login page, built with React N
 
 
 
-> Replace this image with your own screenshot of the app.
 
 ## 🚀 Getting Started
 
